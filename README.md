@@ -24,4 +24,4 @@ Data is considered "Big Data" when it exceeds the capacity of operational databa
 
 ## Summary
 
-Pros of r
+Based on the Amazon review data, there are more non-Vine reviewers than Vine reviewers. As a result, although there is also more 5-star non-Vine reviews than 5-star Vine reviews, this could be due to their larger number of total reviews in general. However, based on the percentage, there is about 51% 5-star non-Vine reviews and about 31% 5-star Vine reviews. As a result, we can conlcude that the vine members do not show a bias (positivity bias) towards giving higher ratings depsite being paid to provide those ratings for the products in the watches category. One additional analysis that could be performed with dataset to support this current analysis findings may include extracting the same Vine/non-Vine review data from several other products (eg. grocery, sports, shoes, electronics, etc.) in Amazon to reveal the non-bias in other product categories as well. 
